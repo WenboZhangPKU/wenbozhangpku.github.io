@@ -11,8 +11,8 @@ cover: /assets/images/covers/Zhang2023_Cover.png
 authors:
   - Wenbo Zhang
   - Nan Zhang
-  - Y. Liang
-  - L. Tokle
+  - Yan Liang
+  - Leif Tokle
 links:
   Link: https://doi.org/10.1029/2023JE007933
 ---

@@ -11,13 +11,14 @@ email: "wenbozhang@pku.edu.cn"
 cv_link: /assets/WenboZhang_CV_PKU_extended_2025.pdf
 gscholar: "https://scholar.google.com/citations?user=E-bmvE0AAAAJ&hl=en"  # add your Google Scholar ID if you have one
 linkedin: ""
+researchgate: "https://www.researchgate.net/profile/Wenbo_Zhang41?ev=hdr_xprf"
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
     My research focuses on the long-term evolution of terrestrial bodies in our solar system, such as the Moon and Io.
-    For my research paradigm, I usually look for scientific problems from observations and then try to address them 
-    using geophysical approaches, e.g., mantle convection and tidal dissipation modeling.
+    My research paradigm is firstly identifying scientific problems inspired by observations and then trying to address them
+    basaed on geophysical approaches, e.g., mantle convection and tidal dissipation modeling.
     Currently, I am visting at Ludwig-Maximilians-Universität München (LMU) as a joint PhD student, working with Dr. Meng Tian.
     I am always looking forward to collaborating with researchers worldwide. If you are interested in my research, feel free to contact me!
   </p>
@@ -42,7 +43,7 @@ education:
   date: 2017 - 2021
 
 researchinterests:
-- name: Evolution of the Moon
+- name: Evolution of the Terrestrial Bodies in Our Solar System
 - name: Planetary Geodynamics
 - name: Melt Process Modeling
 
