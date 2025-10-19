@@ -2,7 +2,7 @@
 body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
-    padding-top: 5.0rem;
+    padding-top: 3.0rem;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -34,12 +34,14 @@ h1, h2, h3, h4, h5, h6,
 
 
 .text-profile-position {
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
 .text-profile-bio {
     /* font-family: "Raleway"; */
     font-weight: 400;
+    font-size: 1.5rem;
 }
 
 .navbar {
@@ -47,7 +49,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .inline-badge {
-    height: 16px;
+    height: 50px;
     vertical-align: -10%;
     margin-right: 2px;
     line-break: unset;
@@ -59,7 +61,7 @@ h1, h2, h3, h4, h5, h6,
 
 .cover-image {
     width: 180px;
-    max-height: 120px;
+    max-height: 180px;
 }
 
 .abstract-body {
@@ -83,10 +85,64 @@ div.lazy {
 }
 
 .badge-publication {
-    font-size: 100%;
+    font-size: 150%;
 }
 
 .email-text {
     font-family: Courier, monospace;
+    font-size: 1.5rem;
 }
 
+/* Profile block zwb 20251017*/
+
+/* Custom Font Sizes for Experience Card */
+
+/* Titles like "Education", "Experience", "Research Interests" */
+.card h6 {
+    font-size: 2.25rem; /* Adjust as needed */
+}
+
+/* Text in Education/Experience items */
+.card ul:not(.small) li {
+    font-size: 2rem; /* Adjust as needed */
+}
+
+/* Smaller text in Education/Experience items (e.g., Department, Date) */
+.card ul:not(.small) li .small {
+    font-size: 1.5rem; /* Adjust as needed */
+}
+
+/* Smaller text in Education/Experience items (e.g., Department, Date) */
+.card .media-body .small {
+    font-size: 1.5rem; /* Adjust as needed */
+}
+
+/* Text for Research Interest items */
+.card ul.small li {
+    font-size: 1.5rem; /* Adjust as needed */
+}
+
+/* Publication Item Title */
+.publication-card h5 {
+    font-size: 1.5rem; 
+}
+
+/* For the authors, journal, and abstract text */
+.publication-card p.small {
+    font-size: 1.5rem; /* Example size, adjust as needed */
+}
+
+/* Publication Card Title ("Publications") */
+.publication-card > h6 {
+    font-size: 2.25rem; /* Adjust this value */
+}
+
+/* CV Link in Profile Card */
+.cv-link {
+    font-size: 1.5rem; /* Adjust this value as needed */
+}
+
+/* Social Media Links in Profile Card */
+.social-link {
+    font-size: 1.5rem; /* Adjust this value as needed */
+}

@@ -6,7 +6,7 @@ pub: "Journal of Geophysical Research: Planets"
 pub_date: "2023"
 doi: "10.1029/2023JE007933"
 abstract: >-
-  We examine how pressure-dependent viscosity influences lunar mantle dynamics after overturn, with implications for melt generation and magma migration that affect mare volcanism patterns.
+  We examine how pressure-dependent viscosity influences lunar mantle dynamics after overturn, with implications for the hemispherical distribution pattern of lunar mare volcanism.
 cover: /assets/images/covers/Zhang2023_Cover.png
 authors:
   - Wenbo Zhang

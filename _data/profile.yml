@@ -1,6 +1,5 @@
 
-primary_name: "Wenbo ZHANG"
-secondary_name: ""
+primary_name: "Wenbo Zhang"
 navbar_name: "Wenbo Zhang"
 
 positions:
@@ -10,47 +9,44 @@ positions:
 email: "wenbozhang@pku.edu.cn"
 cv_link: /assets/WenboZhang_CV_PKU_extended_2025.pdf
 gscholar: "https://scholar.google.com/citations?user=E-bmvE0AAAAJ&hl=en"  # add your Google Scholar ID if you have one
-linkedin: ""
+orcid: "https://orcid.org/0009-0002-0570-558X"
 researchgate: "https://www.researchgate.net/profile/Wenbo_Zhang41?ev=hdr_xprf"
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My research focuses on the long-term evolution of terrestrial bodies in our solar system, such as the Moon and Io.
-    My research paradigm is firstly identifying scientific problems inspired by observations and then trying to address them
-    basaed on geophysical approaches, e.g., mantle convection and tidal dissipation modeling.
-    Currently, I am visting at Ludwig-Maximilians-Universität München (LMU) as a joint PhD student, working with Dr. Meng Tian.
-    I am always looking forward to collaborating with researchers worldwide. If you are interested in my research, feel free to contact me!
+    My research focuses on the evolution of terrestrial bodies in our solar system, such as the Moon and Io. <br/>
+    My tenet is first identifying scientific problems inspired by observations and then addressing them
+    using geophysical approaches, e.g., mantle convection and tidal dissipation modeling. <br/>
+    I am currently a visiting PhD student at Ludwig-Maximilians-Universität München, in the Universitäts-Sternwarte München, working with Dr. Meng Tian.
+    I am always eager to collaborate with researchers worldwide. If you are interested in my work, please feel free to contact me!
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Portrait (replace with your photo credit if desired).
+portrait_caption:
 
 education:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: >-
     Ph.D., Structural Geology <br/>
-    School of Earth and Space Sciences, Peking University<br/>
+    School of Earth and Space Sciences<br/>
     Advisor: Prof. Nan Zhang
   date: 2021 - present
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: >-
     B.Sc., Geology <br/>
-    School of Earth and Space Sciences, Peking University
+    School of Earth and Space Sciences
   date: 2017 - 2021
 
 researchinterests:
-- name: Evolution of the Terrestrial Bodies in Our Solar System
 - name: Planetary Geodynamics
-- name: Melt Process Modeling
+- name: Planetary Volcanism
+- name: Magma Ocean Evolution
 
 skills:
-- Numerical Modeling (CitcomS, custom two-phase flow models in Python/Matlab, MPI/HPC)
-- Data Analysis (PDS, PCA/SVM/K-Means, PyMC)
+- name: Mantle Convection Modeling (CitcomS)
+- name: Two-Phase Flow Modeling
+- name: Bayesian Analysis (PyMC)
 
-languages:
-- Chinese (native)
-- English (working language)
